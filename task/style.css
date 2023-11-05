@@ -1,0 +1,22 @@
+.h-header{
+    float: left;
+    width: 50%;
+}
+.clear-fix{
+    clear: both;
+}
+.h-header h1,p,button{
+    height: 100px;
+}
+.fistphoto{
+
+    float: left;
+    width: 33.33%;
+
+}
+.clear-fix{
+    clear: both;
+}
+.fistphoto img{
+width: 250px;
+}
